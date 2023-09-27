@@ -1,16 +1,16 @@
-### Hi there 👋
+# Jakson Sanders
 
-<!--
-**jsanders25/jsanders25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> It's never that easy.
 
-Here are some ideas to get you started:
+## Major
+Computer Science at Eastern Washington University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+
+## Links
+- [Github](https://github.com/jsanders25)
+- [CodePen](https://codepen.io/jsanders25)
+
+## Ideal Future Job
+I would love to develop software for a company that is forward-thinking and pushes its employees to innovate in their field.
