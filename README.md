@@ -2,6 +2,9 @@
 
 > It's never that easy.
 
+## Bio
+Write a bio here
+
 ## Major
 Computer Science at Eastern Washington University
 
@@ -11,6 +14,3 @@ Computer Science at Eastern Washington University
 ## Links
 - [Github](https://github.com/jsanders25)
 - [CodePen](https://codepen.io/jsanders25)
-
-## Ideal Future Job
-I would love to develop software for a company that is forward-thinking and pushes its employees to innovate in their field.
